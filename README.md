@@ -14,6 +14,6 @@
   <li><b>Is the application intuitive? (Intuitive, i.e., for example, you have no problem understanding what to click to enter the form to add a new football player to the system).</b><br>I had to think for a while before I understood what the app was for. In my opinion, it is not intuitive, or at least there is a lot of room for improvement, as I have pointed out above.</li>
   <li><b>Do you notice any mistakes? Or something seems wrong to you? Write down your thoughts in a file. Here you have the space, time and space to do so! ;)</b><br>Yes, I notice :)<br>- English names appear in the Polish version.<br>- In the player's edition the level of play, Main position and alternate position should be a list of choices. At present, anything can be entered, which makes for nonsense in the reports.<br>- In my opinion it is a mistake not to be able to add a match without adding a player.<br>- In the report, the teams are Objects, and they should have their own names. Without that the report is worthless.<br>- There are several errors in the console including 404. I have included a picture below.</li>
     </ol>
-    <img src="https://drive.google.com/file/d/1JJlm2sQ2H_CNXtAnE7WjzFta5JHjp9sD/view?usp=share_link"></img>
+    <img src="https://user-images.githubusercontent.com/122752057/213030604-b4c220bc-d710-452b-9e7e-7f459aebc489.png" width=”50%” height=”50%>
 
 
