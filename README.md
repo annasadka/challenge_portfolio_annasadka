@@ -16,7 +16,12 @@
     </ol>
     <img src="https://user-images.githubusercontent.com/122752057/213030604-b4c220bc-d710-452b-9e7e-7f459aebc489.png" width=”50%” height=”50%>
 
+
+
+
+
 ## TASK 2
 
 ### Subtask 3
-[![Watch the video](https://user-images.githubusercontent.com/122752057/214440412-efec413a-1d83-4067-ae35-ef199138d817.mp4]
+
+https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e-85b2-f4c1cee6fd0c.mp4
