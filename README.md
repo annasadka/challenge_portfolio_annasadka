@@ -2,6 +2,7 @@
 
 ### Subtask 1
 <p>10/10. yeah!</p>
+<br>
 
 ### Subtask 3
 
@@ -13,13 +14,13 @@
 ### Subtask 4
 
   <details>
-    <summary><b>What is this application about? What is it used for? Click here to see my answer!	:point_left:</b></summary> <br> 
+    <summary><b>What is this application about? What is it used for?</b><br> Click for answer!	:point_left:</summary> <br> 
     <p>The app is used to record matches between teams and their results.</p>
    <br>
     </details>
 
  <details>
-<summary><b>What functionalities are included in the application?</b>Click here to see my answer!	:point_left:<br></summary>
+<summary><b>What functionalities are included in the application?</b><br> Click for answer!	:point_left:<br></summary>
   <br>
 <ol>
   <li>login,</li>
@@ -34,7 +35,7 @@
 </details>
 
 <details>
-  <summary><b>Evaluate the application interface (appearance) - do you like it or not?</b>Click here to see my answer!	:point_left:</summary><br>
+  <summary><b>Evaluate the application interface (appearance) - do you like it or not?</b><br> Click for answer!	:point_left:</summary><br>
   
 <ul>
 <li>The app's interface gives the impression of being very chaotic. At first it is not clear where to look, where to start and what the application is actually for. I suggest tidying up the home page and adopting standard practices in the visual and information hierarchy.</li><br>
@@ -63,31 +64,33 @@
   </details>
   
 <details>
-  <summary><b>Is the application intuitive? </b>Click here to see my answer!	:point_left:</summary>><br>
+  <summary><b>Is the application intuitive? </b><br> Click for answer!	:point_left:</summary>><br>
   I had to think for a while before I understood what the app was for. In my opinion, it is not intuitive, or at least there is a lot of room for improvement, as I have pointed out above.
   <br>
   </details>
   
   <details>
-  <summary><b>Do you notice any mistakes?</b>Click here to see my answer!	:point_left:</summary><br>
+  <summary><b>Do you notice any mistakes?</b><br> Click for answer!!	:point_left:</summary><br>
   
-  Yes, I do :face_with_spiral_eyes:<br>
+  <p>Yes, I do :face_with_spiral_eyes:<br></p>
   <ul>
     <li>English names appear in the Polish version.</li><br>
     <li>In the player's edition the level of play, Main position and alternate position should be a list of choices. At present, anything can be entered, which makes for nonsense in the reports.</li><br>
     <li>In my opinion it is a mistake not to be able to add a match without adding a player.</li><br> 
     <li>In the report, the teams are Objects, and they should have their own names. Without that the report is worthless.</li><br>
-    <li>There are several errors in the console including 404. I have included a picture below.</li>
+    <li>There are several errors in the console including 404. I have included a picture. <a href="https://user-images.githubusercontent.com/122752057/213030604-b4c220bc-d710-452b-9e7e-7f459aebc489.png">Click!</a></li>
     </ul>
-    <img src="https://user-images.githubusercontent.com/122752057/213030604-b4c220bc-d710-452b-9e7e-7f459aebc489.png" width=”50%” height=”50%>
-
-
+   
+<br>
+</details>
+<br>
 
 
 
 ## TASK 2
 
 ### Subtask 1
+
 <details>
 <summary>Writing test cases based on a User Story.:point_right: Click here to see the task!</summary><br>
 
@@ -99,6 +102,7 @@
 <br>
 
 ### Subtask 2
+
 <details>
 <summary>Writing test cases based on "own" experience. :point_right: Click here to see the task!</summary><br>
 
@@ -109,6 +113,7 @@
   <br>
   
 ### Subtask 3
+
 <details>
 <summary>Why do we write test cases? :point_right: Click here to see my answer!</summary><br>
 
@@ -119,3 +124,14 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
 ### Subtask 4
 
 :zipper_mouth_face:
+
+
+## TASK 3
+
+### Subtask 1
+
+### Subtask 2
+
+### Subtask 3
+
+### Subtask 4
