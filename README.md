@@ -24,23 +24,33 @@
 
 ### Subtask 1
 <details>
-<summary>Click here to see the task</summary><br>
-#### Pisanie przypadków testowych na podstawie User Story
+<summary>Writing test cases based on a User Story.:point_right: Click here to see the task!</summary><br>
+
 <ul>
 <li><a href="https://docs.google.com/spreadsheets/d/1esb3fJGxXc7botlI1yLIoygmd4niZft-Q6UKA593edg/edit?usp=share_link">US_01</a></li><br>
 <li><a href="https://docs.google.com/spreadsheets/d/1esb3fJGxXc7botlI1yLIoygmd4niZft-Q6UKA593edg/edit#gid=1212117345">US_02</a></li><br>
 </ul>
 </details>
+<br>
+
 ### Subtask 2
+<details>
+<summary>Writing test cases based on "own" experience. :point_right: Click here to see the task!</summary><br>
 
-<p>Pisanie przypadków testowych na podstawie własnych doświadczeń</p><br>
-
-<a href="https://docs.google.com/spreadsheets/d/1pJEQ4pFfM-S5veqqYfkTCr1qFqLzhu1Bj0prvMUMQ3k/edit?usp=share_link">Test cases</a>
-
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1pJEQ4pFfM-S5veqqYfkTCr1qFqLzhu1Bj0prvMUMQ3k/edit?usp=share_link">Test cases</a></li>
+  </ul>
+  </details>
+  <br>
+  
 ### Subtask 3
-
-<p>Po co piszemy test case’y?</p>
+<details>
+<summary>Why do we write test cases? :point_right: Click here to see my answer!</summary><br>
 
 https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e-85b2-f4c1cee6fd0c.mp4
+</details>
+<br>
 
-## Subtask 4
+### Subtask 4
+
+:zipper_mouth_face:
