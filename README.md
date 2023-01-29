@@ -64,8 +64,9 @@
   </details>
   
 <details>
-  <summary><b>Is the application intuitive? </b><br> Click for answer!	:point_left:</summary>><br>
-  I had to think for a while before I understood what the app was for. In my opinion, it is not intuitive, or at least there is a lot of room for improvement, as I have pointed out above.
+  <summary><b>Is the application intuitive? </b><br> Click for answer!	:point_left:</summary><br>
+  
+  <p>I had to think for a while before I understood what the app was for. In my opinion, it is not intuitive, or at least there is a lot of room for improvement, as I have pointed out above.</p>
   <br>
   </details>
   
