@@ -130,9 +130,16 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
 ## TASK 3
 
 ### Subtask 1
+Utworzenie formatki do zgłaszania błędów systemu
+<a href="https://drive.google.com/drive/u/5/folders/1gSLXaTlkwndvdbQSOGza7CBALa23Y7gF">Folder Task 3</a>
 
 ### Subtask 2
+Testowanie według planów testów i raportowanie błędów
+<a href="https://drive.google.com/drive/u/5/folders/1gSLXaTlkwndvdbQSOGza7CBALa23Y7gF">Folder Task 3</a>
 
 ### Subtask 3
+Raport z wykonanych testów
+<a href="https://drive.google.com/drive/u/5/folders/1gSLXaTlkwndvdbQSOGza7CBALa23Y7gF">Folder Task 3</a>
 
 ### Subtask 4
+Dla grupy i chętnych. Sesja testów eksploracyjnych
