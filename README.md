@@ -148,10 +148,12 @@ For the group and those willing. Exploratory test session<br>
 ## TASK 4
 
 ### Subtask 1
-
+Creation of a form for reporting system bugs
+<a href="https://docs.google.com/spreadsheets/d/1oGEi4RyQhVulM9tapa3fn3SvTDue_5RR8kdUTDxT9Dc/edit#gid=632760265">Click here!</a>
 
 ### Subtask 2
-
+Exploratory testing and bug reporting
+<a href="https://docs.google.com/spreadsheets/d/1oGEi4RyQhVulM9tapa3fn3SvTDue_5RR8kdUTDxT9Dc/edit#gid=632760265">Click here!</a>
 
 ### Subtask 3
 <details>
@@ -180,6 +182,6 @@ My impression is that it is quicker to test in the app. However, in the desktop 
 </details>
 
 ### Subtask 4
-
+I wanted to, but I didn't make it
 
 Created by [Ania Jagoda Sadka](mailto: anna.sadka87@gmail.com) - feel free to contact me!
