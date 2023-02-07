@@ -154,8 +154,32 @@ For the group and those willing. Exploratory test session<br>
 
 
 ### Subtask 3
+<details>
+    <summary>What is this application for? What is the purpose of this app?</summary>
+The app is used to sell and buy things, as well as to rent, sell property and search for jobs.
+</details>
 
+<details>
+    <summary>Who is to be the end user of the app?</summary>
+Buyers, sellers of goods, employers and jobseekers as well as landlords and property sellers/buyers.
+</details>
+
+<details>
+    <summary>Do you think the app is user friendly? </summary>
+Yes, I think it's user friendly.
+</details>
+
+<details>
+    <summary>How would you improve the app? </summary>
+I would give the search box in the search section more in the middle of the screen, as I have looked for this box many times.
+</details>
+
+<details>
+    <summary>What differences do you see between testing a web app and a native app?</summary>
+My impression is that it is quicker to test in the app. However, in the desktop version it is quicker to log in.
+</details>
 
 ### Subtask 4
+
 
 Created by [Ania Jagoda Sadka](mailto: anna.sadka87@gmail.com) - feel free to contact me!
