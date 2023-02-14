@@ -334,6 +334,10 @@ I wanted to, but I didn't make it
   </a><br /></div>
 </details>
 <details><summary>5. Use the logical operator AND to display actors with actor_id between 4-7 (4 and 7 should display). DO NOT use the BETWEEN operator.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/6.png" alt="q1" width="600" height="500">
+  </a><br /></div>
 </details>
 
 <details><summary>6. Display clients with id 2,4,6 use the logical condition for this.</summary>
