@@ -1,4 +1,7 @@
+<a name="readme-top"></a>
+
 <!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
@@ -20,8 +23,19 @@ project_name:
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
+  
 </div>
-
+<div align="center">
+  <img src="images/shake-hands.png" alt=”Shake-hands icon" width=”30” height="30"><h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/anna-sadka-33084697/">
+  <img src="images/linkedin.png" alt=”Linkedin icon" width=”30” height="30"></a>
+                                                                         
+  <a href="https://www.linkedin.com/in/anna-sadka-33084697/">
+  <img src="images/instagram.png" alt=”Instagram icon" width=”30” height="30"></a>
+  
+  <a href="https://www.linkedin.com/in/anna-sadka-33084697/">
+  <img src="images/gmail.png" alt=”Gmail icon" width=”30” height="30"></a>
+                                                                           </div>
 
 
 ## TASK 1
@@ -121,7 +135,10 @@ project_name:
    
 </details>
 </details>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
    </details><br>
+   
+
 
 ## TASK 2
 <details>
@@ -169,6 +186,7 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
 ### Subtask 4
 
 :zipper_mouth_face:
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details><br>
 
 ## TASK 3
@@ -249,7 +267,7 @@ My impression is that it is quicker to test in the app. However, in the desktop 
 
 ### Subtask 4
 I wanted to, but I didn't make it
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
   </details><br>
   
 ## TASK 5
@@ -269,7 +287,7 @@ In github, list the operators/queries you have learned
 Subtask 2 - Setting up the environment and uploading the database
 
 Subtask 3 - A couple of warm-up tasks
-  
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </details><br>
 
 
