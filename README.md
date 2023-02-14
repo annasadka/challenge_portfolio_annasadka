@@ -271,9 +271,8 @@ I wanted to, but I didn't make it
    
 ### Subtask 1 
 <details>
-<summary> Click here. You won't regret it! :wink:</summary><br>
-Short course on SQL basics
-In github, list the operators/queries you have learned. <br>
+<summary> Click here. You won't regret it! :wink:</summary>
+<h4>Short course on SQL basics. In github, list the operators/queries you have learned.</h4> 
 
 <ul>
 <li><b>SELECT</b> - extracts data from a database</li>
@@ -291,11 +290,33 @@ In github, list the operators/queries you have learned. <br>
 
 </details>
 
-Subtask 2 - Setting up the environment and uploading the database
-
-Subtask 3 - A couple of warm-up tasks
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </details><br>
+### Subtask 2 
+                                       
+<details>
+ <summary> Click here!</summary>
+Setting up the environment and uploading the database
+                                       </details>
+                                       
+### Subtask 3 
+<details>
+<summary> Click here!</summary>
+                                       <h4>A couple of warm-up tasks.</h4>
+        
+<details><summary>1. Display a table of actors in alphabetical order sorting by surname column.</summary>
+                                       </details>
+<details><summary>2. Display the film that was made in 2019.</summary></details>
+<details><summary>3. Display all films that were made between 1900 and 1999.</summary></details>
+<details><summary>4. Display ONLY the title and price of films that cost less than $7.</summary></details>
+<details><summary>5. Use the logical operator AND to display actors with actor_id between 4-7 (4 and 7 should display). DO NOT use the BETWEEN operator.</summary</details>
+<details><summary>6. Display clients with id 2,4,6 use the logical condition for this.</summary></details>
+<details><summary>7. Display clients with id 1,3,5 use the IN operator for this.</summary></details>
+<details><summary>8. Display the data of all people in the table 'actors' whose first name starts with the string 'An'.</summary></details>
+<details><summary>9. Display the data of a customer who does not have an email address specified.</summary></details>
+<details><summary>10. Display all movies whose price is above $9 and whose ID is between 2 and 8 movie_id.     </summary></details>
+                                     
+                                       
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</details><br>
 
 </details>
 
