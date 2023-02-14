@@ -1,18 +1,23 @@
 ## TASK 1
+<details>
+  
+  <summary>
+    Click here to see my answers!</summary>
 
 ### Subtask 1
 <p>10/10. yeah!</p>
-<br>
 
 ### Subtask 3
 
 <details>
 <summary>Hi, my name is Ania... :point_right: Click here and read more! :blush:</summary><br>
   <p>I decided to take part in the project because<b> I love new challenges</b> and I would like to finally do what I like. Since the beginning of my career, I've been drawn towards "tinkering" with websites, testing mobile applications and various software, which I kind of managed to do in my previous positions, although they weren't IT-related. And I always wanted to do more of this, but the other responsibilities of my position didn't allow me to. My aim is to build up a portfolio so that I can confidently start applying for jobs in this profession.</p>:muscle:
-</details><br>
+</details>
 
 ### Subtask 4
-
+<details>
+  <summary> Click here!</summary><br>
+ 
   <details>
     <summary><b>What is this application about? What is it used for?</b><br> Click for answer!	:point_left:</summary> <br> 
     <p>The app is used to record matches between teams and their results.</p>
@@ -86,9 +91,12 @@
 </details>
 <br>
 
-
+</details>
+   </details><br>
 
 ## TASK 2
+<details>
+  <summary> Click here to see my answers!</summary>
 
 ### Subtask 1
 
@@ -125,10 +133,11 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
 ### Subtask 4
 
 :zipper_mouth_face:
-
+</details><br>
 
 ## TASK 3
-
+<details>
+  <summary>Click here to see my answers!</summary><br>
 ### Subtask 1
 Creation of a form for reporting system errors<br>
 <a href="https://drive.google.com/drive/u/5/folders/1gSLXaTlkwndvdbQSOGza7CBALa23Y7gF">Folder Task 3</a>
@@ -144,9 +153,12 @@ Test report<br>
 ### Subtask 4
 For the group and those willing. Exploratory test session<br>
 :zipper_mouth_face:
+</details><br>
 
 ## TASK 4
-
+<details>
+  <summary> Click here to see my answers!</summary><br>
+  
 ### Subtask 1
 Creation of a form for reporting system bugs
 <a href="https://docs.google.com/spreadsheets/d/1oGEi4RyQhVulM9tapa3fn3SvTDue_5RR8kdUTDxT9Dc/edit#gid=632760265">Click here!</a>
@@ -184,14 +196,19 @@ My impression is that it is quicker to test in the app. However, in the desktop 
 ### Subtask 4
 I wanted to, but I didn't make it
 
+  </details><br>
+  
 ## TASK 5
-
+<details>
+  <summary>Click here to see my answers!</summary>
 Subtask 1 - Krótki kurs podstaw SQL
 W githubie wymień operatory/zapytania jakich się nauczyłe_aś 
 
 Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
 
 Subtask 3 - Kilka zadań na rozgrzewkę
+  
+  </details><br>
 
 
 
