@@ -157,7 +157,7 @@ For the group and those willing. Exploratory test session<br>
 
 ## TASK 4
 <details>
-  <summary> Click here to see my answers!</summary><br>
+  <summary> Click here to see my answers! :partying_face:</summary><br>
   
 ### Subtask 1
 Creation of a form for reporting system bugs
