@@ -184,4 +184,15 @@ My impression is that it is quicker to test in the app. However, in the desktop 
 ### Subtask 4
 I wanted to, but I didn't make it
 
+## TASK 5
+
+Subtask 1 - Krótki kurs podstaw SQL
+W githubie wymień operatory/zapytania jakich się nauczyłe_aś 
+
+Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
+
+Subtask 3 - Kilka zadań na rozgrzewkę
+
+
+
 Created by [Ania Jagoda Sadka](mailto: anna.sadka87@gmail.com) - feel free to contact me!
