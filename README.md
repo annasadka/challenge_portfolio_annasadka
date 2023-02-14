@@ -259,7 +259,7 @@ I wanted to, but I didn't make it
   </details><br>
   
 ## TASK 5
-
+<details>
 <summary>Click here to see my answers! :nerd_face: <br>
     
     Table of contents:
@@ -269,8 +269,27 @@ I wanted to, but I didn't make it
   
    </summary><br>
    
-Subtask 1 - Short course on SQL basics
-In github, list the operators/queries you have learned 
+### Subtask 1 
+<details>
+<summary> Click here. You won't regret it! :wink:</summary><br>
+Short course on SQL basics
+In github, list the operators/queries you have learned. <br>
+
+<ul>
+<li><b>SELECT</b> - extracts data from a database</li>
+<li><b>UPDATE</b> - updates data in a database</li>
+<li><b>DELETE</b> - deletes data from a database</li>
+<li><b>INSERT INTO</b> - inserts new data into a database</li>
+<li><b>CREATE DATABASE</b> - creates a new database</li>
+<li><b>ALTER DATABASE</b> - modifies a database</li>
+<li><b>CREATE TABLE</b> - creates a new table</li>
+<li><b>ALTER TABLE</b> - modifies a table</li>
+<li><b>DROP TABLE</b> - deletes a table</li>
+<li><b>CREATE INDEX</b> - creates an index (search key)</li>
+<li><b>DROP INDEX</b> - deletes an index</li>
+</ul>
+
+</details>
 
 Subtask 2 - Setting up the environment and uploading the database
 
@@ -278,6 +297,6 @@ Subtask 3 - A couple of warm-up tasks
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </details><br>
 
+</details>
 
 
-Created by [Ania Sadka] (anna.sadka87@gmail.com) - feel free to contact me!
