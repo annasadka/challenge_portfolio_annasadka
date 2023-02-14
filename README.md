@@ -1,12 +1,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Anna becoming a tester</h3>
-
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/ania.png" alt="Logo" width="120" height="120">
+  </a><br />
+  <div align="center">
+project_name:
+<p align="center"><strong>Anna becoming a tester</strong></p>
+</div>
   <p align="center">
     project_description
     <br />
