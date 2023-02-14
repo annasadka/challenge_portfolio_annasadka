@@ -1,8 +1,14 @@
 ## TASK 1
 <details>
   
-  <summary>
-    Click here to see my answers! :wink:</summary>
+  <summary>Click here to find out how I coped with the tasks! :grin: <br>
+    
+    Table of contents:
+    Subtask 1 - my test result
+    Subtask 2 - the author of the task did not foresee  
+    Subtask 3 - short info about me
+    Subtask 4 - answers for questions about appliation
+   </summary>
 
 ### Subtask 1
 <p>10/10. yeah!</p>
@@ -16,7 +22,7 @@
 
 ### Subtask 4
 <details>
-  <summary> Click here!</summary><br>
+  <summary> Click here to find out what I think of the app after seeing it for the first time :innocent:</summary><br>
  
   <details>
     <summary><b>What is this application about? What is it used for?</b><br> Click for answer!	:point_left:</summary> <br> 
@@ -96,7 +102,14 @@
 
 ## TASK 2
 <details>
-  <summary> Click here to see my answers! :innocent:</summary>
+   <summary>Click here to see my answers! :blush: <br>
+    
+    Table of contents:
+    Subtask 1 - Writing test cases based on a User Story
+    Subtask 2 - Writing test cases based on "own" experience 
+    Subtask 3 - Why do we write test cases? My answers
+    Subtask 4 - Extra task
+   </summary>
 
 ### Subtask 1
 
@@ -137,7 +150,15 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
 
 ## TASK 3
 <details>
-  <summary>Click here to see my answers! :yum:</summary><br>
+  <summary>Click here to see my answers! :relaxed: <br>
+    
+    Table of contents:
+    Subtask 1 - Creation of a form for reporting system errors
+    Subtask 2 - Testing according to test plans and error reporting
+    Subtask 3 - Test report
+    Subtask 4 - Extra task
+   </summary><br>
+  
 ### Subtask 1
 Creation of a form for reporting system errors<br>
 <a href="https://drive.google.com/drive/u/5/folders/1gSLXaTlkwndvdbQSOGza7CBALa23Y7gF">Folder Task 3</a>
@@ -157,7 +178,14 @@ For the group and those willing. Exploratory test session<br>
 
 ## TASK 4
 <details>
-  <summary> Click here to see my answers! :partying_face:</summary><br>
+  <summary>Click here to see my answers! :partying_face: <br>
+    
+    Table of contents:
+    Subtask 1 - Creation of a form for reporting system bugs
+    Subtask 2 - Exploratory testing and bug reporting
+    Subtask 3 - My answers fr questions about the app
+    Subtask 4 - Extra task
+   </summary><br>
   
 ### Subtask 1
 Creation of a form for reporting system bugs
@@ -199,17 +227,25 @@ I wanted to, but I didn't make it
   </details><br>
   
 ## TASK 5
-<details>
-  <summary>Click here to see my answers! :right_anger_bubble:</summary>
-Subtask 1 - Krótki kurs podstaw SQL
-W githubie wymień operatory/zapytania jakich się nauczyłe_aś 
 
-Subtask 2 - Konfiguracja środowiska i wgranie bazy danych
+<summary>Click here to see my answers! :nerd_face: <br>
+    
+    Table of contents:
+    Subtask 1 - Short course on SQL basics
+    Subtask 2 - Setting up the environment and uploading the database
+    Subtask 3 - A couple of warm-up tasks
+  
+   </summary><br>
+   
+Subtask 1 - Short course on SQL basics
+In github, list the operators/queries you have learned 
 
-Subtask 3 - Kilka zadań na rozgrzewkę
+Subtask 2 - Setting up the environment and uploading the database
+
+Subtask 3 - A couple of warm-up tasks
   
   </details><br>
 
 
 
-Created by [Ania Jagoda Sadka](mailto: anna.sadka87@gmail.com) - feel free to contact me!
+Created by [Ania Sadka] (anna.sadka87@gmail.com) - feel free to contact me!
