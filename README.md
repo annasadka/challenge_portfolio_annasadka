@@ -8,32 +8,20 @@
     <img src="images/ania.png" alt="Logo" width="120" height="120">
   </a><br />
   <div align="center">
-project_name:
-<p align="center"><strong>Anna becoming a tester</strong></p>
+
+<h3 align="center">project_name:<br>Anna becoming a tester :muscle:</h3>
 </div>
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
   
 </div>
 <div align="center">
-  <img src="images/shake-hands.png" alt=”Shake-hands icon" width=”30” height="30"><h3>Connect with me:</h3>
+<h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/anna-sadka-33084697/">
   <img src="images/linkedin.png" alt=”Linkedin icon" width=”30” height="30"></a>
-                                                                         
-  <a href="https://www.linkedin.com/in/anna-sadka-33084697/">
+                                                                     
+  <a href="https://www.instagram.com/aniajagoda/">
   <img src="images/instagram.png" alt=”Instagram icon" width=”30” height="30"></a>
   
-  <a href="https://www.linkedin.com/in/anna-sadka-33084697/">
+  <a href="mailto: anna.sadka87@gmail.com">
   <img src="images/gmail.png" alt=”Gmail icon" width=”30” height="30"></a>
                                                                            </div>
 
