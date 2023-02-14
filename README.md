@@ -295,6 +295,10 @@ I wanted to, but I didn't make it
 <details>
  <summary> Click here!</summary>
 Setting up the environment and uploading the database
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
                                        </details>
                                        
 ### Subtask 3 
@@ -303,16 +307,69 @@ Setting up the environment and uploading the database
                                        <h4>A couple of warm-up tasks.</h4>
         
 <details><summary>1. Display a table of actors in alphabetical order sorting by surname column.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
                                        </details>
-<details><summary>2. Display the film that was made in 2019.</summary></details>
-<details><summary>3. Display all films that were made between 1900 and 1999.</summary></details>
-<details><summary>4. Display ONLY the title and price of films that cost less than $7.</summary></details>
-<details><summary>5. Use the logical operator AND to display actors with actor_id between 4-7 (4 and 7 should display). DO NOT use the BETWEEN operator.</summary</details>
-<details><summary>6. Display clients with id 2,4,6 use the logical condition for this.</summary></details>
-<details><summary>7. Display clients with id 1,3,5 use the IN operator for this.</summary></details>
-<details><summary>8. Display the data of all people in the table 'actors' whose first name starts with the string 'An'.</summary></details>
-<details><summary>9. Display the data of a customer who does not have an email address specified.</summary></details>
-<details><summary>10. Display all movies whose price is above $9 and whose ID is between 2 and 8 movie_id.     </summary></details>
+<details><summary>2. Display the film that was made in 2019.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+
+</details>
+
+<details><summary>3. Display all films that were made between 1900 and 1999.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+
+<details><summary>4. Display ONLY the title and price of films that cost less than $7.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+<details><summary>5. Use the logical operator AND to display actors with actor_id between 4-7 (4 and 7 should display). DO NOT use the BETWEEN operator.</summary>
+</details>
+
+<details><summary>6. Display clients with id 2,4,6 use the logical condition for this.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+
+<details><summary>7. Display clients with id 1,3,5 use the IN operator for this.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+
+<details><summary>8. Display the data of all people in the table 'actors' whose first name starts with the string 'An'.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+
+<details><summary>9. Display the data of a customer who does not have an email address specified.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+
+<details><summary>10. Display all movies whose price is above $9 and whose ID is between 2 and 8 movie_id.     </summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
                                      
                                        
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
