@@ -1,3 +1,28 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Anna becoming a tester</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
 ## TASK 1
 <details>
   
@@ -93,10 +118,7 @@
     <li>There are several errors in the console including 404. I have included a picture. <a href="https://user-images.githubusercontent.com/122752057/213030604-b4c220bc-d710-452b-9e7e-7f459aebc489.png">Click!</a></li>
     </ul>
    
-<br>
 </details>
-<br>
-
 </details>
    </details><br>
 
@@ -121,7 +143,7 @@
 <li><a href="https://docs.google.com/spreadsheets/d/1esb3fJGxXc7botlI1yLIoygmd4niZft-Q6UKA593edg/edit#gid=1212117345">US_02</a></li><br>
 </ul>
 </details>
-<br>
+
 
 ### Subtask 2
 
@@ -132,7 +154,7 @@
 <li><a href="https://docs.google.com/spreadsheets/d/1pJEQ4pFfM-S5veqqYfkTCr1qFqLzhu1Bj0prvMUMQ3k/edit?usp=share_link">Test cases</a></li>
   </ul>
   </details>
-  <br>
+ 
   
 ### Subtask 3
 
@@ -141,7 +163,7 @@
 
 https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e-85b2-f4c1cee6fd0c.mp4
 </details>
-<br>
+
 
 ### Subtask 4
 
@@ -196,30 +218,33 @@ Exploratory testing and bug reporting
 <a href="https://docs.google.com/spreadsheets/d/1oGEi4RyQhVulM9tapa3fn3SvTDue_5RR8kdUTDxT9Dc/edit#gid=632760265">Click here!</a>
 
 ### Subtask 3
+  <details>
+    <summary>Click here to see my answers!</summary><br>
 <details>
-    <summary>What is this application for? What is the purpose of this app?</summary>
+  <summary><b>What is this application for? What is the purpose of this app?</b></summary>
 The app is used to sell and buy things, as well as to rent, sell property and search for jobs.
 </details>
 
 <details>
-    <summary>Who is to be the end user of the app?</summary>
+  <summary><b>Who is to be the end user of the app?</b></summary>
 Buyers, sellers of goods, employers and jobseekers as well as landlords and property sellers/buyers.
 </details>
 
 <details>
-    <summary>Do you think the app is user friendly? </summary>
+  <summary><b>Do you think the app is user friendly? </b></summary>
 Yes, I think it's user friendly.
 </details>
 
 <details>
-    <summary>How would you improve the app? </summary>
+  <summary><b>How would you improve the app?</b> </summary>
 I would give the search box in the search section more in the middle of the screen, as I have looked for this box many times.
 </details>
 
 <details>
-    <summary>What differences do you see between testing a web app and a native app?</summary>
+  <summary><b>What differences do you see between testing a web app and a native app?</b></summary>
 My impression is that it is quicker to test in the app. However, in the desktop version it is quicker to log in.
 </details>
+  </details>
 
 ### Subtask 4
 I wanted to, but I didn't make it
