@@ -2,7 +2,7 @@
 <details>
   
   <summary>
-    Click here to see my answers!</summary>
+    Click here to see my answers! :wink:</summary>
 
 ### Subtask 1
 <p>10/10. yeah!</p>
@@ -96,7 +96,7 @@
 
 ## TASK 2
 <details>
-  <summary> Click here to see my answers!</summary>
+  <summary> Click here to see my answers! :innocent:</summary>
 
 ### Subtask 1
 
@@ -137,7 +137,7 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
 
 ## TASK 3
 <details>
-  <summary>Click here to see my answers!</summary><br>
+  <summary>Click here to see my answers! :yum:</summary><br>
 ### Subtask 1
 Creation of a form for reporting system errors<br>
 <a href="https://drive.google.com/drive/u/5/folders/1gSLXaTlkwndvdbQSOGza7CBALa23Y7gF">Folder Task 3</a>
@@ -200,7 +200,7 @@ I wanted to, but I didn't make it
   
 ## TASK 5
 <details>
-  <summary>Click here to see my answers!</summary>
+  <summary>Click here to see my answers! :right_anger_bubble:</summary>
 Subtask 1 - Krótki kurs podstaw SQL
 W githubie wymień operatory/zapytania jakich się nauczyłe_aś 
 
