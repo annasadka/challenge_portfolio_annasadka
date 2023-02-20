@@ -396,7 +396,6 @@ I wanted to, but I didn't make it
                                        
 <details>
 <summary> Click here!</summary>
-<h4>A couple of warm-up tasks.</h4>
       
 <details>
 <summary>11. I made a mistake in typing Annie Miler's name - I typed Muler. Find and apply a function to correct my breakneck error 🙈</summary>
@@ -477,7 +476,7 @@ I wanted to, but I didn't make it
     <img src="images/2.png" alt="q1" width="600" height="500">
   </a><br /></div>
 </details>
-                                                             
+           </details>                                                  
                                                              
                                                              
 ### Subtask 2 - Test
@@ -485,5 +484,5 @@ I wanted to, but I didn't make it
                                        
                                        
                                       
-</details>
+
 
