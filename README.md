@@ -397,17 +397,82 @@ I wanted to, but I didn't make it
 <details>
 <summary> Click here!</summary>
 <h4>A couple of warm-up tasks.</h4>
-        
-<details><summary>1.11 I made a mistake in typing Annie Miler's name - I typed Muler. Find and apply a function to correct my breakneck error 🙈</summary>
+                                       </details>       
+<details><summary>11 I made a mistake in typing Annie Miler's name - I typed Muler. Find and apply a function to correct my breakneck error 🙈</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/2.png" alt="q1" width="600" height="500">
   </a><br /></div>
-                                       </details>
+</details>
+
+<details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             <details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             
+                                                             <details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             
+                                                             <details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             
+                                                             <details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             
+                                                             <details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             
+                                                             <details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             
+                                                             <details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             
+                                                             <details><summary>I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+</details>
+                                                             
+                                                             
+                                                             
 ### Subtask 2 - Test
 ### Subtask 3 - Building a portfolio
                                        
                                        
                                       
-
+</details>
 
