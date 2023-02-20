@@ -397,9 +397,9 @@ I wanted to, but I didn't make it
 <details>
 <summary> Click here!</summary>
 <h4>A couple of warm-up tasks.</h4>
-</details>       
+      
 <details>
-<summary>11 I made a mistake in typing Annie Miler's name - I typed Muler. Find and apply a function to correct my breakneck error 🙈</summary>
+<summary>11. I made a mistake in typing Annie Miler's name - I typed Muler. Find and apply a function to correct my breakneck error 🙈</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/2.png" alt="q1" width="600" height="500">
