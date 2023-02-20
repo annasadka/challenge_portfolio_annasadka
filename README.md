@@ -380,5 +380,34 @@ I wanted to, but I didn't make it
 </details><br>
 
 </details>
+                                       
+## TASK 6
+<details>
+<summary>Click here to see my answers! :nerd_face: <br>
+    
+    Table of contents:
+    Subtask 1 - Short course on SQL basics
+    Subtask 2 - Test
+    Subtask 3 - Building a portfolio
+  
+   </summary><br>
+   
+### Subtask 1 - Short course on SQL basics
+                                       
+<details>
+<summary> Click here!</summary>
+<h4>A couple of warm-up tasks.</h4>
+        
+<details><summary>1.11 I made a mistake in typing Annie Miler's name - I typed Muler. Find and apply a function to correct my breakneck error 🙈</summary>
+<div align="left">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
+    <img src="images/2.png" alt="q1" width="600" height="500">
+  </a><br /></div>
+                                       </details>
+### Subtask 2 - Test
+### Subtask 3 - Building a portfolio
+                                       
+                                       
+                                      
 
 
