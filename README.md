@@ -371,7 +371,7 @@ I wanted to, but I didn't make it
 <details><summary>10. Display all movies whose price is above $9 and whose ID is between 2 and 8 movie_id.     </summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
-    <img src="images/11.png" alt="q10">
+    <img src="images/21.png" alt="q10">
   </a><br /></div>
 </details>
                                      
