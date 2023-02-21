@@ -383,7 +383,7 @@ I wanted to, but I didn't make it
                                        
 ## TASK 6
 <details>
-<summary>Click here to see my answers! :nerd_face: <br>
+<summary>Click here to see my answers! :face_exhaling: <br>
     
     Table of contents:
     Subtask 1 - Short course on SQL basics
