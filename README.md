@@ -481,7 +481,7 @@ I wanted to, but I didn't make it
                                                              
 ### Subtask 2 - Test
 
-<p> My result is: 8/15</p><br>
+<p> My result is: 8/15</p>
   
 ### Subtask 3 - Building a portfolio
 
