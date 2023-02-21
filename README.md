@@ -406,7 +406,7 @@ I wanted to, but I didn't make it
 </details>
 
 <details>
-<summary>12. I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. .</summary>
+<summary>12. I charged too much money from a customer who had bought a film with id 4. Using the join function, check the customer's name & email. .</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/12.png" alt="q12">
@@ -430,7 +430,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>15. Add a column called 'pseudonym' to the customer table. Fill in the column- pseudonym is created from the first 2 letters of the first name and the last letter of the last name.</summary>
+<summary>15. Add a column 'pseudonym' to the customer table. Fill in the column- pseudonym = first 2 letters of the first name and the last letter of the last name.</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/15.png" alt="q15" ">
@@ -470,7 +470,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>20. Add a row to the customers table where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa</summary>
+<summary>20. Add a row to the customers table: customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/20.png" alt="q20">
@@ -480,7 +480,12 @@ I wanted to, but I didn't make it
                                                              
                                                              
 ### Subtask 2 - Test
+
+<p> My result is: 8/15</p>
+  
 ### Subtask 3 - Building a portfolio
+
+[Ania's portfolio](https://github.com/annasadka/portfolio)
                                        
                                        
                                       
