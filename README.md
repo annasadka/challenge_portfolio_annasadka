@@ -130,7 +130,7 @@
 
 ## TASK 2
 <details>
-   <summary>Click here to see my answers! :blush: <br>
+   <summary>Click here to see my answers! :eyes: <br>
     
     Table of contents:
     Subtask 1 - Writing test cases based on a User Story
