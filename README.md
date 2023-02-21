@@ -406,7 +406,7 @@ I wanted to, but I didn't make it
 </details>
 
 <details>
-<summary>12. I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. In order to write him a message about the mistake of the fantastic boss.</summary>
+<summary>12. I charged too much money from a customer who had recently bought a film with id 4. Using the join function, check the customer's name and email. .</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/12.png" alt="q12">
@@ -414,7 +414,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>13. you have surely noticed that the salesman forgot to enter the email of the customer Patricia. Fill in this blank by typing in: pati@mail.com.</summary>
+<summary>13. You have surely noticed that the salesman forgot to enter the email of Pati. Fill in this blank by typing in: pati@mail.com.</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/13.png" alt="q13">
@@ -422,7 +422,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>14. for each purchase, display the name of the customer who made the rental and the title of the film rented. (Use the inner join function to do this, think beforehand about which tables you will need for the exercise)..</summary>
+<summary>14. For each purchase, display the name of the customer who made the rental and the title of the film rented. (Use the inner join function)</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/14.png" alt="q14" >
@@ -430,7 +430,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>15. To anonymise your data, you want to create pseudonyms for your customers. - Add a column called 'pseudonym' to the customer table,- Fill in the column so that the pseudonym is created from the first two letters of the first name and the last letter of the last name. E.g. Natalie Pilling → Na</summary>
+<summary>15. Add a column called 'pseudonym' to the customer table. Fill in the column- pseudonym is created from the first 2 letters of the first name and the last letter of the last name.</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/15.png" alt="q15" ">
@@ -438,7 +438,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>16. display the titles of the films that have been purchased, display the table so that the titles are not repeated.</summary>
+<summary>16. Display the titles of the films that have been purchased, display the table so that the titles are not repeated.</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/16.png" alt="q16">
@@ -446,7 +446,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>17. display a common list of names of all actors and clients, and put the result in alphabetical order. (Use the UNION function for this)</summary>
+<summary>17. Display a common list of names of all actors and clients, and put the result in alphabetical order. (Use the UNION function for this)</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/17.png" alt="q17">
@@ -454,7 +454,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>18. Poland has been overtaken by inflation and our video shop has also been affected. Raise the price of all films made after 2000 by $2.5 (Remember, the dollar is the default unit-don't use it anywhere).</summary>
+<summary>18. Raise the price of all films made after 2000 by $2.5</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/18.png" alt="q18">
@@ -462,7 +462,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>19. display the name of the actor with id 4 and the title of the film he played in</summary>
+<summary>19. Display the name of the actor with id 4 and the title of the film he played in</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/19.png" alt="q19">
@@ -470,7 +470,7 @@ I wanted to, but I didn't make it
 </details>
                                                              
 <details>
-<summary>20. Where's our HONIA! Add a new tuple to the customers table where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa</summary>
+<summary>20. Add a row to the customers table where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
     <img src="images/20.png" alt="q20">
