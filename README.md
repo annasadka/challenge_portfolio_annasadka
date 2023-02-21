@@ -350,7 +350,7 @@ I wanted to, but I didn't make it
 <details><summary>7. Display clients with id 1,3,5 use the IN operator for this.</summary>
 <div align="left">
   <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
-    <img src="images/8.png" alt="q7">
+    <img src="images/28.png" alt="q7">
   </a><br /></div>
 </details>
 
