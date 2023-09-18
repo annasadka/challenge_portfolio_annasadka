@@ -145,7 +145,7 @@
 <summary>Writing test cases based on a User Story.:point_right: Click here to see the task!</summary><br>
 
 <ul>
-<li><a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit#gid=0"></a></li><br>
+<li><a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit#gid=0">link to Google sheet</a></li><br>
 </ul>
 </details>
 
@@ -156,7 +156,7 @@
 <summary>Writing test cases based on "own" experience. :point_right: Click here to see the task!</summary><br>
 
 <ul>
-<li><a href="[https://docs.google.com/spreadsheets/d/1pJEQ4pFfM-S5veqqYfkTCr1qFqLzhu1Bj0prvMUMQ3k/edit?usp=share_link](https://docs.google.com/spreadsheets/d/1fUqtssrOBBiQ_dcsBuanaull8sbovIpBSK_m6hO0Bos/edit#gid=0)"></a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1fUqtssrOBBiQ_dcsBuanaull8sbovIpBSK_m6hO0Bos/edit#gid=0">link to Google sheet</a></li>
   </ul>
   </details>
  
