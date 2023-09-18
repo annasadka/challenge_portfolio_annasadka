@@ -9,7 +9,7 @@
   </a><br />
   <div align="center">
 
-<h3 align="center">project_name:<br>Anna becoming a tester :muscle:</h3>
+<h3 align="center">project_name:<br>Software Tester in training :muscle:</h3>
 </div>
   
 </div>
@@ -187,22 +187,16 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
     Subtask 4 - Extra task
    </summary><br>
   
-### Subtask 1
-Creation of a form for reporting system errors<br>
-<a href="https://drive.google.com/drive/u/5/folders/1gSLXaTlkwndvdbQSOGza7CBALa23Y7gF">Folder Task 3</a>
+### Subtask 1 & Subtask 2
+Creation of a form for reporting system errors & Testing according to test plans and error reporting<br>
+<a href="https://docs.google.com/spreadsheets/d/1ps890syRlzcKgPk8r6Q5WadZ_KkOj7CZ/edit?usp=drive_link&ouid=107164675351220975541&rtpof=true&sd=true">Folder Task 3</a>
 
-### Subtask 2
-Testing according to test plans and error reporting<br>
-<a href="https://drive.google.com/drive/u/5/folders/1gSLXaTlkwndvdbQSOGza7CBALa23Y7gF">Folder Task 3</a>
 
 ### Subtask 3
 Test report<br>
-<a href="https://docs.google.com/spreadsheets/d/1MLSu-LP9oPvXpD-Xu-xuckT1fkvIojI_9IMvkJBsY5A/edit#gid=272343937">Tests report</a>
+<a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit?usp=drive_link&ouid=107164675351220975541&rtpof=true&sd=true">Test report</a>
 
-### Subtask 4
-For the group and those willing. Exploratory test session<br>
-:zipper_mouth_face:
-</details><br>
+
 
 ## TASK 4
 <details>
