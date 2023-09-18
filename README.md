@@ -187,13 +187,13 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
     Subtask 4 - Extra task
    </summary><br>
   
-### Subtask 1 & Subtask 2
+### Subtask 1 and 2
 Creation of a form for reporting system errors & Testing according to test plans and error reporting<br>
 <a href="https://docs.google.com/spreadsheets/d/1ps890syRlzcKgPk8r6Q5WadZ_KkOj7CZ/edit?usp=drive_link&ouid=107164675351220975541&rtpof=true&sd=true">link to Google sheet</a>
 
 
 ### Subtask 3
-<br>
+
 <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit?usp=drive_link&ouid=107164675351220975541&rtpof=true&sd=true">Test report</a>
 
 
