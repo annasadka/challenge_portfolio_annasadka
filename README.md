@@ -170,10 +170,6 @@ https://user-images.githubusercontent.com/122752057/214440649-a05ec41c-1b17-4c2e
 </details>
 
 
-### Subtask 4
-
-:zipper_mouth_face:
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </details><br>
 
 ## TASK 3
@@ -196,7 +192,7 @@ Creation of a form for reporting system errors & Testing according to test plans
 
 <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit?usp=drive_link&ouid=107164675351220975541&rtpof=true&sd=true">Test report</a>
 
-
+</details><br>
 
 ## TASK 4
 <details>
