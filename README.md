@@ -211,11 +211,11 @@ Creation of a form for reporting system errors & Testing according to test plans
   
 ### Subtask 1
 Creation of a form for reporting system bugs
-<a href="https://docs.google.com/spreadsheets/d/1oGEi4RyQhVulM9tapa3fn3SvTDue_5RR8kdUTDxT9Dc/edit#gid=632760265">Click here!</a>
+<a href="https://docs.google.com/spreadsheets/d/1j5b5ce5-fa2Ml3vKH59XbLn-bw0kmmbq/edit?usp=drive_link&ouid=107164675351220975541&rtpof=true&sd=true">Click here!</a>
 
 ### Subtask 2
 Exploratory testing and bug reporting
-<a href="https://docs.google.com/spreadsheets/d/1oGEi4RyQhVulM9tapa3fn3SvTDue_5RR8kdUTDxT9Dc/edit#gid=632760265">Click here!</a>
+<a href="https://docs.google.com/presentation/d/1dJrb3E8XmUZhmHb4IzETN_vkaa4-kjzq/edit?usp=drive_link&ouid=107164675351220975541&rtpof=true&sd=true">Click here!</a>
 
 ### Subtask 3
   <details>
